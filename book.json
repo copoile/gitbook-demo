@@ -1,0 +1,23 @@
+{
+"structure": {
+	"readme": "INTRODUCE.md"
+},
+"plugins": [ 
+	"github",
+	"-sharing",
+	"splitter",
+	"expandable-chapters-small",
+	"code",
+	"flexible-alerts",
+	"lightbox"
+],
+"pluginsConfig": {
+    "github": {
+        "url": "https://github.com/copoile/gitbook-demo.git"
+    }
+},
+"title": "gitbook教程",
+"author": "小姚同学",
+"description": "你好呀，这是一个gitbook教程demo。",
+"language" : "zh-hans"
+}
